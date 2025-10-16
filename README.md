@@ -21,8 +21,9 @@
 * Open Your Vps - 
 
 ```
-ssh root@ip - the ip from the cpu you rented 
+ssh root@ip  
 ```
+ - the ip from the cpu you rented
 
 ## Pre-Requirements
 
